@@ -1,0 +1,30 @@
+.avatar {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile {
+  text-align: center;
+  padding: 10px;
+  background-color: #cccccc;
+  width: 500px;
+  height: 500px;
+  border-radius: 10px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.stats {
+  padding: 0px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.label {
+  font-weight: bold;
+}
